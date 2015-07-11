@@ -31,9 +31,6 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.example.android.sunshine2.app.R;
-import com.example.android.sunshine2.app.SettingsActivity;
-
 public class DetailActivity extends ActionBarActivity {
 
     @Override
@@ -46,7 +43,6 @@ public class DetailActivity extends ActionBarActivity {
                     .commit();
         }
     }
-
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
