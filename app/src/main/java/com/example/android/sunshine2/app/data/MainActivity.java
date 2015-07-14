@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.example.android.sunshine2.app;
+package com.example.android.sunshine2.app.data;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -25,7 +25,6 @@ import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import com.example.android.sunshine2.app.ForecastFragment;
 import com.example.android.sunshine2.app.R;
 import com.example.android.sunshine2.app.SettingsActivity;
 
