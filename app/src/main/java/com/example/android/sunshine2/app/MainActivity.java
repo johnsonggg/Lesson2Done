@@ -26,7 +26,6 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 import com.example.android.sunshine2.app.R;
-import com.example.android.sunshine2.app.SettingsActivity;
 
 public class MainActivity extends ActionBarActivity {
 
