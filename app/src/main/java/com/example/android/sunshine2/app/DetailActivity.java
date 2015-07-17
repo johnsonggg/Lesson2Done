@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.sunshine2.app.data;
+package com.example.android.sunshine2.app;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -30,8 +30,6 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
-
-import com.example.android.sunshine2.app.R;
 //import com.example.android.sunshine2.app.SettingsActivity;
 
 public class DetailActivity extends ActionBarActivity {

@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.example.android.sunshine2.app.data;
+package com.example.android.sunshine2.app;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -24,8 +24,6 @@ import android.support.v7.app.ActionBarActivity;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
-
-import com.example.android.sunshine2.app.R;
 
 public class MainActivity extends ActionBarActivity {
 

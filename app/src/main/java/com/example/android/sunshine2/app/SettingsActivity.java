@@ -13,15 +13,13 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.example.android.sunshine2.app.data;
+package com.example.android.sunshine2.app;
 
 import android.os.Bundle;
 import android.preference.ListPreference;
 import android.preference.Preference;
 import android.preference.PreferenceActivity;
 import android.preference.PreferenceManager;
-
-import com.example.android.sunshine2.app.R;
 
 /**
  * A {@link PreferenceActivity} that presents a set of application settings.
